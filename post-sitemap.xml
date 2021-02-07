@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://devjang.github.io/2021/02/07/2021-02-07-insight-youtube/</loc>
+        <lastmod>2021-02-07T06:31:00.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/</loc>
         <lastmod>2021-02-06T09:22:51.611Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +145,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
+        <lastmod>2021-02-06T02:32:49.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2019/04/14/2019-04-14-linux-example-photo-book/</loc>
         <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -146,14 +162,6 @@
 
     <url>
         <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
-        <lastmod>2021-02-06T02:32:49.659Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
         <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -209,7 +217,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +225,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -241,7 +249,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
+        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
         <lastmod>2021-02-06T02:32:49.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -249,7 +257,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/12/24/2017-12-24-open-ide-tip/</loc>
+        <loc>https://devjang.github.io/2017/12/30/2017-12-30-apprenticeship-patterns/</loc>
         <lastmod>2021-02-06T02:32:49.656Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -321,7 +329,15 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
+        <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
+        <lastmod>2021-02-06T02:32:49.654Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
         <lastmod>2021-02-06T02:32:49.654Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -337,7 +353,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/02/10/2017-02-10-js-book/</loc>
+        <loc>https://devjang.github.io/2017/01/24/2017-01-24-w3c-html5-45/</loc>
         <lastmod>2021-02-06T02:32:49.654Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -346,14 +362,6 @@
 
     <url>
         <loc>https://devjang.github.io/2017/07/14/2017-07-14-first-step-angular/</loc>
-        <lastmod>2021-02-06T02:32:49.654Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2017/02/24/2017-02-24-js-book/</loc>
         <lastmod>2021-02-06T02:32:49.654Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -377,7 +385,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
+        <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
         <lastmod>2021-02-06T02:32:49.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -385,7 +393,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/08/28/2016-08-28-basic-programming/</loc>
+        <loc>https://devjang.github.io/2016/09/17/2016-09-17-java-book/</loc>
         <lastmod>2021-02-06T02:32:49.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -417,23 +425,15 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
-        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
-        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2016/06/19/2016-06-19-ksug/</loc>
+        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
         <lastmod>2021-02-06T02:32:49.652Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -450,6 +450,14 @@
 
     <url>
         <loc>https://devjang.github.io/2016/07/14/2016-07-14-java-book/</loc>
+        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
         <lastmod>2021-02-06T02:32:49.652Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
