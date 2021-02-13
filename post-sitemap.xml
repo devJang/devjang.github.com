@@ -10,7 +10,7 @@
 
     <url>
         <loc>https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/</loc>
-        <lastmod>2021-02-13T07:38:18.653Z</lastmod>
+        <lastmod>2021-02-13T07:43:38.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
+        <loc>https://devjang.github.io/2019/12/01/2019-12-01-harvard-time-management/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +33,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/12/01/2019-12-01-harvard-time-management/</loc>
+        <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,6 +73,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game/</loc>
+        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2019/08/09/2019-08-09-programming-interviews-exposed/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,23 +97,15 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/11/20/2019-11-20-technique-react-book/</loc>
-        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2019/07/12/2019-07-12-coding-algorithm-with-game/</loc>
-        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2019/10/13/2019-10-13-line-developer/</loc>
+        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2019/11/20/2019-11-20-technique-react-book/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +217,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -225,7 +225,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

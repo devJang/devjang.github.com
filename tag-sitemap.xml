@@ -4,7 +4,7 @@
 
     <url>
         <loc>https://devjang.github.io/tags/learning/</loc>
-        <lastmod>2021-02-13T07:38:18.653Z</lastmod>
+        <lastmod>2021-02-13T07:43:38.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -52,14 +52,14 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC/</loc>
+        <loc>https://devjang.github.io/tags/start-up/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/start-up/</loc>
+        <loc>https://devjang.github.io/tags/%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -136,21 +136,14 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/LINE/</loc>
-        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/tags/%EA%B2%8C%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EC%BD%94%EB%94%A9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
-        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/velopert/</loc>
+        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/LINE/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -172,6 +165,13 @@
 
     <url>
         <loc>https://devjang.github.io/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%A9%B4%EC%A0%91/</loc>
+        <lastmod>2021-02-06T02:32:49.660Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/%EA%B2%8C%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%EC%BD%94%EB%94%A9-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

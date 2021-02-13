@@ -15,7 +15,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://media.giphy.com/media/IPbS5R4fSUl5S/source.gif">
 <meta property="article:published_time" content="2021-01-23T15:00:00.000Z">
-<meta property="article:modified_time" content="2021-02-13T07:38:18.653Z">
+<meta property="article:modified_time" content="2021-02-13T07:43:38.223Z">
 <meta property="article:author" content="DevJang">
 <meta property="article:tag" content="learning">
 <meta name="twitter:card" content="summary">
@@ -203,6 +203,67 @@ ga('send', 'pageview');
             <p>지식을 얻는 9단계 초학습법 울트라러닝의 9가지 법칙을 개발자의 관점에서 바라보기</p>
 <a id="more"></a>
 
+<hr>
+<h2 id="Table-of-Contents"><a href="#Table-of-Contents" class="headerlink" title="Table of Contents"></a>Table of Contents</h2><!-- TOC -->
+
+<ul>
+<li><a href="#1-%EB%A9%94%ED%83%80%ED%95%99%EC%8A%B5-%EB%A8%BC%EC%A0%80-%EC%A7%80%EB%8F%84%EB%A5%BC-%EA%B7%B8%EB%A0%A4%EB%9D%BC">1. 메타학습: 먼저 지도를 그려라</a><ul>
+<li><a href="#1-1-%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0">1-1. 어떠한 기술을 공부해야 하는 이유 파악하기</a></li>
+<li><a href="#1-2-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0">1-2. 리소스 수집하기</a></li>
+<li><a href="#1-3-proof-of-concept-poc">1-3. Proof of Concept (PoC)</a></li>
+<li><a href="#1-4-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EA%B7%B8%EB%A6%AC%EA%B8%B0">1-4. 나만의 로드맵 그리기</a></li>
+</ul>
+</li>
+<li><a href="#2-%EC%A7%91%EC%A4%91%ED%95%98%EA%B8%B0-%EC%A7%A7%EC%9D%80-%EC%8B%9C%EA%B0%84%EC%97%90-%EC%A7%91%EC%A4%91%EB%8F%84%EB%A5%BC-%EB%86%92%EC%97%AC%EB%9D%BC">2. 집중하기: 짧은 시간에 집중도를 높여라</a><ul>
+<li><a href="#2-1-%EB%BD%80%EB%AA%A8%EB%8F%84%EB%A1%9C-%ED%98%B9%EC%9D%80-%ED%83%80%EC%9D%B4%EB%A8%B8-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0">2-1. 뽀모도로 혹은 타이머 활용하기</a></li>
+<li><a href="#2-2-%EB%A3%A8%ED%8B%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0">2-2. 루틴 만들기</a></li>
+<li><a href="#2-3-%EC%A7%91%EC%A4%91%EC%9D%B4-%EC%9E%98-%EB%90%98%EB%8A%94-tpo-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0">2-3. 집중이 잘 되는 TPO 파악하기</a></li>
+</ul>
+</li>
+<li><a href="#3-%EC%A7%81%EC%A0%91-%ED%95%98%EA%B8%B0-%EB%AA%A9%ED%91%9C%EB%A5%BC-%ED%96%A5%ED%95%B4-%EB%98%91%EB%B0%94%EB%A1%9C-%EB%82%98%EC%95%84%EA%B0%80%EB%9D%BC">3. 직접 하기: 목표를 향해 똑바로 나아가라</a><ul>
+<li><a href="#3-1-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0">3-1. 회사에서 실천하기</a></li>
+<li><a href="#3-2-%EC%99%B8%EC%A3%BC-%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0">3-2. 외주 진행하기</a></li>
+<li><a href="#3-3-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%84%ED%96%89">3-3. 사이드 프로젝트 진행</a></li>
+</ul>
+</li>
+<li><a href="#4-%ED%8A%B9%ED%99%94-%ED%95%99%EC%8A%B5-%EC%B7%A8%EC%95%BD%EC%A0%90%EC%9D%84-%EA%B3%B5%EB%9E%B5%ED%95%98%EB%9D%BC">4. 특화 학습: 취약점을 공략하라</a><ul>
+<li><a href="#4-1-%EC%B7%A8%EC%95%BD%EC%A0%90-%ED%8C%8C%EC%95%85">4-1. 취약점 파악</a></li>
+<li><a href="#4-2-%EA%B3%84%EC%B8%B5-%EC%A7%80%EC%8B%9D-%ED%99%9C%EC%9A%A9">4-2. 계층 지식 활용</a></li>
+<li><a href="#4-3-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%9B%EC%95%84%EB%B3%B4%EA%B8%B0">4-3. 피드백 받아보기</a></li>
+<li><a href="#4-4-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%EC%8B%A4%EC%8A%B5%EC%9D%98-%EA%B2%BD%EA%B3%84">4-4. 이론과 실습의 경계</a></li>
+</ul>
+</li>
+<li><a href="#5-%EC%9D%B8%EC%B6%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EC%8B%9C%ED%97%98%ED%95%98%EB%9D%BC">5. 인출: 배운 것을 시험하라</a><ul>
+<li><a href="#5-1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%92%80%EA%B8%B0">5-1. 알고리즘 풀기</a></li>
+<li><a href="#5-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0">5-2. 지원하기</a></li>
+</ul>
+</li>
+<li><a href="#6-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%82%A0%EC%95%84%EB%93%9C%EB%8A%94-%EC%A1%B0%EC%96%B8%EC%9D%84-%ED%94%BC%ED%95%98%EC%A7%80-%EB%A7%88%EB%9D%BC">6. 피드백: 날아드는 조언을 피하지 마라</a><ul>
+<li><a href="#6-1-%EB%A9%B4%EC%A0%91-%EB%B3%B4%EA%B8%B0">6-1. 면접 보기</a></li>
+<li><a href="#6-2-%EA%B7%B8%EB%A3%B9-%EC%8A%A4%ED%84%B0%EB%94%94">6-2. 그룹 스터디</a></li>
+<li><a href="#6-3-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC">6-3. 오픈 소스 기여</a></li>
+<li><a href="#6-4-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EC%9D%84-%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B0">6-4. 배운 것을 공유하기</a></li>
+</ul>
+</li>
+<li><a href="#7-%EC%9C%A0%EC%A7%80-%EC%83%88%EB%8A%94-%EC%96%91%EB%8F%99%EC%9D%B4%EC%97%90-%EB%AC%BC%EC%9D%84-%EC%B1%84%EC%9A%B0%EC%A7%80-%EB%A7%88%EB%9D%BC">7. 유지: 새는 양동이에 물을 채우지 마라</a><ul>
+<li><a href="#7-1-%EA%B8%B0%EB%B3%B8%EC%97%90-%EC%B6%A9%EC%8B%A4%ED%95%98%EC%9E%90">7-1. 기본에 충실하자</a></li>
+<li><a href="#7-2-%EB%A6%AC%EB%93%AC-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0">7-2. 리듬 유지하기</a></li>
+</ul>
+</li>
+<li><a href="#8-%EC%A7%81%EA%B4%80-%EB%BC%88%EB%8C%80%EB%A5%BC-%EC%84%B8%EC%9A%B0%EA%B8%B0-%EC%A0%84%EC%97%90-%EA%B9%8A%EC%9D%B4-%ED%8C%8C%EB%9D%BC">8. 직관: 뼈대를 세우기 전에 깊이 파라</a><ul>
+<li><a href="#8-1-computer-science">8-1. Computer Science</a></li>
+<li><a href="#8-2-%EC%9D%98%EC%8B%9D%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0">8-2. 의식적인 학습하기</a></li>
+<li><a href="#8-3-%EB%8F%85%EC%84%9C">8-3. 독서</a></li>
+</ul>
+</li>
+<li><a href="#9-%EC%8B%A4%ED%97%98-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80-%EB%B0%96%EC%9D%84-%ED%83%90%ED%97%98%ED%95%98%EB%9D%BC">9. 실험: 자신의 안전지대 밖을 탐험하라</a><ul>
+<li><a href="#9-1-%EA%B7%B9%ED%95%9C%EC%97%90-%EB%8F%84%EC%A0%84%ED%95%98%EA%B8%B0">9-1. 극한에 도전하기</a></li>
+<li><a href="#9-2-tdd">9-2. TDD</a></li>
+<li><a href="#9-3-%ED%95%99%EC%83%9D-%EA%B3%84%EC%A0%95-%EB%B0%8F-%ED%94%84%EB%A6%AC-%ED%8B%B0%EC%96%B4-%EB%93%B1-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%A0%9C%EB%8F%84-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0">9-3. 학생 계정 및 프리 티어 등 다양한 제도 활용하기</a></li>
+</ul>
+</li>
+<li><a href="#%EB%A7%88%EC%B9%98%EB%A9%B0">마치며</a></li>
+</ul>
 <hr>
 <h2 id="울트라러닝의-9가지-법칙"><a href="#울트라러닝의-9가지-법칙" class="headerlink" title="울트라러닝의 9가지 법칙"></a>울트라러닝의 9가지 법칙</h2><p>이전에 읽었던 <a href="https://devjang.github.io/2020/12/13/2020-12-13-ultra-learning">울트라러닝</a>의 법칙을 기반으로 개발자는 어떻게 행동할 수 있을까?</p>
 <p>다시 한번 개발자의 입장으로 정의해보고 싶어 책을 다시 한번 펼쳐보았다.</p>
@@ -478,7 +539,7 @@ ga('send', 'pageview');
 
 </div>
 
-    <a data-url="https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/" data-id="ckl3es5l600eygn7aec9zbh59" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/" data-id="ckl3ez11k00ew5l7afb3yeumz" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
