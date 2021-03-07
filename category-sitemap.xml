@@ -9,6 +9,34 @@
 
 
     <url>
+        <loc>https://devjang.github.io/categories/retrospect/%25EC%259A%25B0%25EC%2595%2584%25ED%2595%259C%25ED%2585%258C%25ED%2581%25AC%25EC%25BD%2594%25EC%258A%25A4/</loc>
+        <lastmod>2021-03-07T11:15:54.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/retrospect/</loc>
+        <lastmod>2021-03-07T11:15:54.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/self-help/</loc>
+        <lastmod>2021-03-07T09:12:48.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/categories/book/</loc>
+        <lastmod>2021-03-07T09:12:48.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/categories/column/</loc>
         <lastmod>2021-02-13T07:43:38.223Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,20 +59,6 @@
 
     <url>
         <loc>https://devjang.github.io/categories/book/programming/</loc>
-        <lastmod>2021-02-06T02:32:49.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/book/self-help/</loc>
-        <lastmod>2021-02-06T02:32:49.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/categories/book/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

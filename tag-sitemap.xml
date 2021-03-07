@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://devjang.github.io/tags/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/</loc>
+        <lastmod>2021-03-07T11:15:54.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/tags/book/</loc>
+        <lastmod>2021-03-07T09:12:48.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/tags/learning/</loc>
         <lastmod>2021-02-13T07:43:38.223Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/2020-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0/</loc>
-        <lastmod>2021-02-06T02:32:49.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/tags/React/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,7 +38,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/tags/book/</loc>
+        <loc>https://devjang.github.io/tags/2020-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

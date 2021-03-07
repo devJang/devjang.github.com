@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://devjang.github.io/2021/03/07/2021-03-07-wooteco-2021-february/</loc>
+        <lastmod>2021-03-07T11:15:54.749Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2020/12/13/2020-12-13-ultra-learning/</loc>
+        <lastmod>2021-03-07T09:12:48.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/</loc>
         <lastmod>2021-02-13T07:43:38.223Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -49,7 +65,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/12/13/2020-12-13-ultra-learning/</loc>
+        <loc>https://devjang.github.io/2020/12/27/2020-12-27-adieu-2020/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -58,14 +74,6 @@
 
     <url>
         <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
-        <lastmod>2021-02-06T02:32:49.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2020/12/27/2020-12-27-adieu-2020/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -153,7 +161,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
+        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
         <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,7 +169,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
+        <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
         <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -209,6 +217,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <lastmod>2021-02-06T02:32:49.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -218,14 +234,6 @@
 
     <url>
         <loc>https://devjang.github.io/2019/03/24/2019-03-24-javascipt30-4/</loc>
-        <lastmod>2021-02-06T02:32:49.658Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
