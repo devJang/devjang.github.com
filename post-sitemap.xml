@@ -10,7 +10,7 @@
 
     <url>
         <loc>https://devjang.github.io/2021/03/07/2021-03-07-wooteco-2021-february/</loc>
-        <lastmod>2021-03-07T11:15:54.749Z</lastmod>
+        <lastmod>2021-03-09T13:32:16.523Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -65,7 +65,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/12/27/2020-12-27-adieu-2020/</loc>
+        <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,7 +73,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/10/17/2020-10-17-woowahan-tech-learning-3rd/</loc>
+        <loc>https://devjang.github.io/2020/12/27/2020-12-27-adieu-2020/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,14 +161,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
-        <lastmod>2021-02-06T02:32:49.659Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2019/04/27/2019-04-27-javascipt30-8/</loc>
         <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -177,8 +169,8 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
-        <lastmod>2021-02-06T02:32:49.658Z</lastmod>
+        <loc>https://devjang.github.io/2019/06/09/2019-06-09-modern-web-html5-css3/</loc>
+        <lastmod>2021-02-06T02:32:49.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -186,6 +178,14 @@
 
     <url>
         <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
+        <lastmod>2021-02-06T02:32:49.658Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +217,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -225,7 +225,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
