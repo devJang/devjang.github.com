@@ -9,14 +9,6 @@
 
 
     <url>
-        <loc>https://devjang.github.io/2021/03/07/2021-03-07-wooteco-2021-february/</loc>
-        <lastmod>2021-03-09T13:32:16.523Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2020/12/13/2020-12-13-ultra-learning/</loc>
         <lastmod>2021-03-07T09:12:48.866Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -49,7 +41,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/11/15/2020-11-15-geultto-5th/</loc>
+        <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +49,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2020/09/27/2020-09-27-modern-startup/</loc>
+        <loc>https://devjang.github.io/2020/11/15/2020-11-15-geultto-5th/</loc>
         <lastmod>2021-02-06T02:32:49.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -97,7 +89,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/08/25/2019-08-25-learning-developer/</loc>
+        <loc>https://devjang.github.io/2019/10/13/2019-10-13-line-developer/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -105,7 +97,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/10/13/2019-10-13-line-developer/</loc>
+        <loc>https://devjang.github.io/2019/08/25/2019-08-25-learning-developer/</loc>
         <lastmod>2021-02-06T02:32:49.660Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -177,7 +169,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
+        <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -185,7 +177,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/12/23/2018-12-23-ths-principles-of-oop-js/</loc>
+        <loc>https://devjang.github.io/2018/11/25/2018-11-25-var-let-and-const/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +209,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
+        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -225,7 +217,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2019/03/10/2019-03-10-javascipt30-2/</loc>
+        <loc>https://devjang.github.io/2019/03/17/2019-03-17-javascipt30-3/</loc>
         <lastmod>2021-02-06T02:32:49.658Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -241,14 +233,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/04/29/2018-04-29-run-simple-ts/</loc>
-        <lastmod>2021-02-06T02:32:49.657Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2018/11/11/2018-11-11-new-fed-begginer-tip/</loc>
         <lastmod>2021-02-06T02:32:49.657Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -257,8 +241,8 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
-        <lastmod>2021-02-06T02:32:49.656Z</lastmod>
+        <loc>https://devjang.github.io/2018/04/29/2018-04-29-run-simple-ts/</loc>
+        <lastmod>2021-02-06T02:32:49.657Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -289,6 +273,14 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2018/04/12/2018-04-12-this-is-java/</loc>
+        <lastmod>2021-02-06T02:32:49.656Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2017/12/21/2017-12-21-adieu-2017/</loc>
         <lastmod>2021-02-06T02:32:49.656Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -305,7 +297,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/11/30/2017-11-30-ts-uglify/</loc>
+        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
         <lastmod>2021-02-06T02:32:49.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -321,7 +313,7 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/11/16/2017-11-16-okky/</loc>
+        <loc>https://devjang.github.io/2017/11/30/2017-11-30-ts-uglify/</loc>
         <lastmod>2021-02-06T02:32:49.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -409,14 +401,6 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
-        <lastmod>2021-02-06T02:32:49.653Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://devjang.github.io/2016/11/05/2016-11-05-gdg-devfest-seoul-2016/</loc>
         <lastmod>2021-02-06T02:32:49.653Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -425,8 +409,8 @@
     </url>
 
     <url>
-        <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
-        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
+        <loc>https://devjang.github.io/2017/01/20/2017-01-20-js-book/</loc>
+        <lastmod>2021-02-06T02:32:49.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -434,14 +418,6 @@
 
     <url>
         <loc>https://devjang.github.io/2016/06/17/2016-06-17-crazy-study/</loc>
-        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
         <lastmod>2021-02-06T02:32:49.652Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -457,7 +433,23 @@
     </url>
 
     <url>
+        <loc>https://devjang.github.io/2016/06/24/2016-06-24-9xd/</loc>
+        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://devjang.github.io/2016/06/27/2016-06-27-rediscovery-habit/</loc>
+        <lastmod>2021-02-06T02:32:49.652Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://devjang.github.io/2016/06/21/2016-06-21-power-persistence/</loc>
         <lastmod>2021-02-06T02:32:49.652Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
